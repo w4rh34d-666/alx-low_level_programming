@@ -6,11 +6,11 @@
  * @b: int to be multiplied to a
  * Return: the result of the operation
  */
-int mul(int num1,int num2)
+int mul(int a, int b)
 {
 	int c;
 
-	c = num1 * num2;
+	c = a * b;
 
 	return (c);
 }
